@@ -1,0 +1,835 @@
+{
+  "id": "JEASA",
+  "documents": [
+    {
+      "id": "JEASADOC",
+      "guid": "16153a18-56f4-4619-a10f-04e92263f6e4",
+      "name": "Jorge e as abelhas",
+      "lastId": 18,
+      "createdOn": "2018-04-19T22:26:32.732Z",
+      "createdBy": {
+        "name": "Mateus Coutinho Marim",
+        "email": "mateus.marim@ice.ufjf.br",
+        "company": "Universidade Federal de Juiz de Fora"
+      },
+      "lastChangedOn": "2018-04-19T23:04:30.283Z",
+      "lastChangedBy": {
+        "name": "Mateus Coutinho Marim",
+        "email": "mateus.marim@ice.ufjf.br",
+        "company": "Universidade Federal de Juiz de Fora"
+      },
+      "data": [
+        {
+          "id": "1",
+          "guid": "c8c35112-280d-489a-bcc2-1d0b8659d6b2",
+          "heading": "Requisitos Funcionais",
+          "history": [
+            {
+              "affectedNodeId": "#",
+              "changedBy": {
+                "company": "Universidade Federal de Juiz de Fora",
+                "email": "mateus.marim@ice.ufjf.br",
+                "name": "Mateus Coutinho Marim"
+              },
+              "changedOn": "2018-04-19T22:26:34.541Z",
+              "docId": "JEASADOC",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Universidade Federal de Juiz de Fora",
+                "email": "mateus.marim@ice.ufjf.br",
+                "name": "Mateus Coutinho Marim"
+              },
+              "changedOn": "2018-04-19T22:27:43.295Z"
+            },
+            {
+              "attributesChanged": {
+                "heading": "Requisitos Funcionais"
+              },
+              "changedBy": {
+                "company": "Universidade Federal de Juiz de Fora",
+                "email": "mateus.marim@ice.ufjf.br",
+                "name": "Mateus Coutinho Marim"
+              },
+              "changedOn": "2018-04-19T22:27:57.653Z"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Universidade Federal de Juiz de Fora",
+                "email": "mateus.marim@ice.ufjf.br",
+                "name": "Mateus Coutinho Marim"
+              },
+              "changedOn": "2018-04-19T22:29:47.970Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "2",
+              "guid": "62638e16-683b-4800-8b93-a321579f2639",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:29:54.198Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "affectedNodeId": "3",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:32:00.315Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "SwapUp"
+                },
+                {
+                  "affectedNodeId": "5",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:32:01.069Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "SwapUp"
+                },
+                {
+                  "affectedNodeId": "4",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:32:01.492Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "SwapUp"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "guid": "0fe27224-3276-4c0a-a94c-92a1d5004a30",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:30:06.607Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:30:21.664Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:30:24.721Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:30:31.295Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:30:36.099Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:30:37.333Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:30:38.655Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:30:39.394Z"
+                },
+                {
+                  "affectedNodeId": "2",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:31:01.152Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "SwapUp"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:31:12.720Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:31:18.096Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Requisitos Não Funcionais"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:31:38.683Z"
+                },
+                {
+                  "affectedNodeId": "6",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:32:09.486Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "SwapUp"
+                },
+                {
+                  "affectedNodeId": "5",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:32:09.951Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "SwapUp"
+                },
+                {
+                  "affectedNodeId": "4",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:32:10.706Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "SwapUp"
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "guid": "289cdd9b-f23d-4a77-b284-17d003bea356",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:31:05.521Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:31:15.105Z"
+                },
+                {
+                  "attributesChanged": {
+                    "deleted": true
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:31:50.157Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "guid": "07a83529-0045-48f7-9e7a-6661f49874f2",
+          "heading": "Requisitos Não Funcionais",
+          "history": [
+            {
+              "affectedNodeId": "#",
+              "changedBy": {
+                "company": "Universidade Federal de Juiz de Fora",
+                "email": "mateus.marim@ice.ufjf.br",
+                "name": "Mateus Coutinho Marim"
+              },
+              "changedOn": "2018-04-19T22:32:20.987Z",
+              "docId": "JEASADOC",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Universidade Federal de Juiz de Fora",
+                "email": "mateus.marim@ice.ufjf.br",
+                "name": "Mateus Coutinho Marim"
+              },
+              "changedOn": "2018-04-19T22:32:35.343Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "8",
+              "guid": "13555b27-0f2a-4821-ae5e-771fd8b91111",
+              "text": "<p>O SO utilizado deve ser Windows XP ou superior.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "7",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:32:45.162Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:58:11.615Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O SO utilizado deve ser Windows XP ou superior</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:02:15.872Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>O SO utilizado deve ser Windows XP ou superior;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:02:32.766Z"
+                }
+              ]
+            },
+            {
+              "id": "9",
+              "guid": "3f91dbd1-60d8-4b60-833b-a626eff306ce",
+              "text": "<p>O jogo deve possibilitar ao usuário o aprendizado e a assimilação dos conteúdos de Engenharia de Software.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "7",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:58:18.808Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:58:34.326Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O jogo deve possibilitar ao usuário o aprendizado e a assimilação dos conteúdos de Engenharia de Software</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:02:27.966Z"
+                }
+              ]
+            },
+            {
+              "id": "10",
+              "guid": "240ede71-4c68-4dee-b439-bd84d2ba891b",
+              "text": "<p>O jogo deve possuir uma interface intuitiva.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "7",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:58:38.049Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:58:57.892Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O jogo deve possuir uma interface intuitiva;</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:02:44.330Z"
+                }
+              ]
+            },
+            {
+              "id": "11",
+              "guid": "3ce4016d-0228-444f-8a37-88798f85682b",
+              "text": "<p>O jogo deve ter um manual de instruções.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "7",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:59:10.944Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:59:26.166Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O jogo deve ter um manual de instruções;</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:04:22.920Z"
+                }
+              ]
+            },
+            {
+              "id": "12",
+              "guid": "8342d66c-0157-40b5-aaae-ad91c41cfe58",
+              "text": "<p>O jogo deve ser instalado a partir do executável padrão do RPG Maker VX Ace.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "7",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:59:37.306Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T22:59:43.386Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O jogo deve ser instalado a partir do executável padrão do RPG Maker VX Ace.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:04:30.274Z"
+                }
+              ]
+            },
+            {
+              "id": "13",
+              "guid": "793c1764-602b-476e-bb15-aa2d7ef20d03",
+              "text": "<p>O objetivo do jogo só será alcançado caso o usuário tenha um conhecimento básico de Engenharia de Software, então ele só deve ser jogado por quem se encaixa nesse perfil.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "7",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:00:00.267Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:00:14.745Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O objetivo do jogo só será alcançado caso o usuário tenha um conhecimento básico de Engenharia de Software, então ele só deve ser jogado por quem se encaixa nesse perfil;</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:03:43.501Z"
+                }
+              ]
+            },
+            {
+              "id": "14",
+              "guid": "0be08711-d5df-49a2-a2ca-123b4c564126",
+              "text": "<p>O jogo deve apresentar as instruções após uma introdução lúdica de no máximo um minuto.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "7",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:00:19.019Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:00:25.409Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O jogo deve apresentar as instruções após uma introdução lúdica de no máximo um minuto;</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:03:18.809Z"
+                }
+              ]
+            },
+            {
+              "id": "15",
+              "guid": "67f88a0d-48f3-4567-8e97-f107898917eb",
+              "text": "<p>O jogo deve iniciar após no máximo 15 segundos.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "7",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:00:28.394Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:00:47.383Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O jogo deve iniciar após no máximo 15 segundos;</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:02:54.246Z"
+                }
+              ]
+            },
+            {
+              "id": "16",
+              "guid": "9b96fd13-e07f-4c6b-9907-116c945df932",
+              "text": "<p>O jogo deve ser finalizável em menos de uma hora.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "7",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:00:50.082Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:01:08.100Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O jogo deve ser finalizável em menos de uma hora;</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:03:52.198Z"
+                }
+              ]
+            },
+            {
+              "id": "17",
+              "guid": "2d5560ae-8f9a-4e4e-a92e-686d29e39473",
+              "text": "<p>O projeto deve ser finalizado em menos de dois meses.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "7",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:01:10.336Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:01:21.662Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O projeto deve ser finalizado em menos de dois meses;</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:04:03.874Z"
+                }
+              ]
+            },
+            {
+              "id": "18",
+              "guid": "9396f7a0-aba1-46ba-a883-cc465f07465f",
+              "text": "<p>O projeto deve ser desenvolvido totalmente no RPG Maker VX Ace.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "7",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:01:36.636Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:01:54.072Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O projeto deve ser desenvolvido totalmente no RPG Maker VX Ace.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-19T23:04:12.690Z"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attributes": {
+      },
+      "view": {
+      }
+    }
+  ],
+  "traceability": {
+    "reference": {
+      "name": "Reference",
+      "source": "References",
+      "target": "Referenced by"
+    }
+  },
+  "metadata": {
+    "format": "2.3",
+    "saveHistory": true
+  }
+}
