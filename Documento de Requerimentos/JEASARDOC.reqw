@@ -5,14 +5,14 @@
       "id": "JEASADOC",
       "guid": "16153a18-56f4-4619-a10f-04e92263f6e4",
       "name": "Jorge e as abelhas",
-      "lastId": 18,
+      "lastId": 40,
       "createdOn": "2018-04-19T22:26:32.732Z",
       "createdBy": {
         "name": "Mateus Coutinho Marim",
         "email": "mateus.marim@ice.ufjf.br",
         "company": "Universidade Federal de Juiz de Fora"
       },
-      "lastChangedOn": "2018-04-19T23:04:30.283Z",
+      "lastChangedOn": "2018-04-23T02:11:27.020Z",
       "lastChangedBy": {
         "name": "Mateus Coutinho Marim",
         "email": "mateus.marim@ice.ufjf.br",
@@ -73,6 +73,7 @@
             {
               "id": "2",
               "guid": "62638e16-683b-4800-8b93-a321579f2639",
+              "text": "<p>Apresentará itens correspondentes ao conjunto de armas e armadura do nobre e os mesmos possuem atributos que especificam a qualidade do material utilizado.</p>",
               "history": [
                 {
                   "affectedNodeId": "1",
@@ -117,12 +118,35 @@
                   "changedOn": "2018-04-19T22:32:01.492Z",
                   "docId": "JEASADOC",
                   "structureAction": "SwapUp"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T01:59:50.447Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>Apresentará itens correspondentes ao conjunto de armas e armadura do nobre e os mesmos possuem atributos que especificam a qualidade do material utilizado.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:10:22.716Z"
                 }
               ]
             },
             {
               "id": "3",
               "guid": "0fe27224-3276-4c0a-a94c-92a1d5004a30",
+              "text": "<p>O resultado final mostra o quão eficiente será o conjunto de arma e armadura desenvolvido para o nobre e será avaliado da maneira como ele voltar da guerra.</p>",
               "history": [
                 {
                   "affectedNodeId": "1",
@@ -288,12 +312,35 @@
                   "changedOn": "2018-04-19T22:32:10.706Z",
                   "docId": "JEASADOC",
                   "structureAction": "SwapUp"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:00:05.786Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O resultado final mostra o quão eficiente será o conjunto de arma e armadura desenvolvido para o nobre e será avaliado da maneira como ele voltar da guerra.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:10:16.802Z"
                 }
               ]
             },
             {
               "id": "4",
               "guid": "289cdd9b-f23d-4a77-b284-17d003bea356",
+              "text": "<ol><li><p>O nobre poderá voltar da seguinte maneira:</p><ol><li><p>Morto;</p></li><li><p>Vivo:</p><ol><li><p>Armadura destruída e arma intacta;</p></li><li><p>Armas destruídas e armadura intacta;</p></li><li><p>Armas e armadura destruídas;</p></li><li><p>Armas e armadura intactas;</p></li></ol></li></ol></li></ol>",
               "history": [
                 {
                   "affectedNodeId": "1",
@@ -327,6 +374,941 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-19T22:31:50.157Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:00:33.864Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ol><li><p><strong>O nobre poderá voltar da seguinte maneira:</strong></p><ol><li><p><strong>Morto;</strong></p></li><li><p><strong>Vivo:</strong></p><ol><li><p><strong>Armadura destruída e arma intacta;</strong></p></li><li><p><strong>Armas destruídas e armadura intacta;</strong></p></li><li><p><strong>Armas e armadura destruídas;</strong></p></li><li><p><strong>Armas e armadura intactas;</strong></p></li></ol></li></ol></li></ol>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:10:11.801Z"
+                }
+              ]
+            },
+            {
+              "id": "19",
+              "guid": "f746674c-a19e-4a2a-a3ce-e34e51f35ecc",
+              "text": "<p>Os NPCs (Non Playable Characters) apresentarão Nomes.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:00:44.219Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:00:59.961Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>Os NPCs (Non Playable Characters) apresentarão Nomes.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:10:08.193Z"
+                }
+              ]
+            },
+            {
+              "id": "20",
+              "guid": "f8fa09e4-404c-4b84-bc7f-c2c40750053f",
+              "text": "<p>O nobre deve ter uma barra de estresse que aumenta a cada vez que o jogador faz uma pergunta para limitar o número de perguntas que ele pode fazer. Caso a barra de estresse chegue no máximo, o nobre manda executar o jogador.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:01:02.734Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:01:17.146Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O nobre deve ter uma barra de estresse que aumenta a cada vez que o jogador faz uma pergunta para limitar o número de perguntas que ele pode fazer. Caso a barra de estresse chegue no máximo, o nobre manda executar o jogador.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:10:04.317Z"
+                }
+              ]
+            },
+            {
+              "id": "21",
+              "guid": "4e90b98a-144a-4767-b92b-ccdc89d86faf",
+              "text": "<p>Os NPCs devem ter barras de estresse que, quando chegam no máximo, bloqueiam o diálogo com o NPC em questão pelo resto do jogo.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:01:20.522Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:01:32.284Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>Os NPCs devem ter barras de estresse que, quando chegam no máximo, bloqueiam o diálogo com o NPC em questão pelo resto do jogo.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:09:56.824Z"
+                }
+              ]
+            },
+            {
+              "id": "22",
+              "guid": "181a8de3-1f01-4af3-8d09-904619785546",
+              "text": "<p>O jogo deve ter trilha sonora.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:01:34.247Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:01:43.504Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O jogo deve ter trilha sonora.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:09:53.473Z"
+                }
+              ]
+            },
+            {
+              "id": "23",
+              "guid": "2fc31cc9-dc6a-4b3f-9aaa-b6090058e3c8",
+              "text": "<p>O jogo deve apresentar menu inicial com opção de configurar volume e resolução.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:01:49.779Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:01:55.242Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O jogo deve apresentar menu inicial com opção de configurar volume e resolução.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:09:50.182Z"
+                }
+              ]
+            },
+            {
+              "id": "24",
+              "guid": "540a2608-c7aa-4d45-98dc-294ac0bd97a2",
+              "text": "<p>O jogo deve funcionar com um sistema de passagem de tempo por tarefas executadas (cada tarefa consome um tempo diferente).</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:01:56.985Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:02:07.502Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O jogo deve funcionar com um sistema de passagem de tempo por tarefas executadas (cada tarefa consome um tempo diferente).</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:09:45.946Z"
+                }
+              ]
+            },
+            {
+              "id": "25",
+              "guid": "ec4ea1da-07ea-421f-a29a-07c799f4a7d4",
+              "text": "<p>Deve haver um tempo limite para entregar o conjunto de armas e armadura demarcando o início da guerra.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:02:16.488Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:02:30.016Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>Deve haver um tempo limite para entregar o conjunto de armas e armadura demarcando o início da guerra.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:09:42.202Z"
+                }
+              ]
+            },
+            {
+              "id": "26",
+              "guid": "eef42ada-46b9-43f8-a76e-b5cfc8fc5274",
+              "text": "<p>Deve haver uma opção de passar o tempo rapidamente sem realizar tarefas (ao interagir com a cama o jogador pode escolher dormir até o dia seguinte).</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:02:34.723Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:02:49.229Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>Deve haver uma opção de passar o tempo rapidamente sem realizar tarefas (ao interagir com a cama o jogador pode escolher dormir até o dia seguinte).</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:09:38.543Z"
+                }
+              ]
+            },
+            {
+              "id": "27",
+              "guid": "312605c0-4048-4c24-a0d9-1dd072b83772",
+              "text": "<p>Cada serviço que o jogador solicitar levará um determinado tempo para ser finalizado. O serviço não ocupará o tempo do jogador, mas ele precisa esperar esse tempo (realizando tarefas ou dormindo) para buscar os resultados desse serviço.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:02:51.878Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:03:09.417Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>Cada serviço que o jogador solicitar levará um determinado tempo para ser finalizado. O serviço não ocupará o tempo do jogador, mas ele precisa esperar esse tempo (realizando tarefas ou dormindo) para buscar os resultados desse serviço.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:09:30.563Z"
+                }
+              ]
+            },
+            {
+              "id": "28",
+              "guid": "2e42b882-a4f8-42bd-bb43-3a98bd40cb7b",
+              "text": "<p>Os serviços podem apresentar falhas ou atrasos e, para verificar o andamento, o jogador deve falar com o NPC que estiver trabalhando com isso, mas ao falar com o NPC a barra de paciência dele vai diminuir.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:03:12.598Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:03:21.396Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>Os serviços podem apresentar falhas ou atrasos e, para verificar o andamento, o jogador deve falar com o NPC que estiver trabalhando com isso, mas ao falar com o NPC a barra de paciência dele vai diminuir.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:09:24.729Z"
+                }
+              ]
+            },
+            {
+              "id": "29",
+              "guid": "09903d41-f4f2-48ae-9bdd-d5d50b70ff41",
+              "text": "<p>O nobre precisa de quatro peças de armadura:</p><ol><li><p>Elmo;</p></li><li><p>Peitoral;</p></li><li><p>Manopla;</p></li><li><p>Calças;</p></li></ol>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:03:23.686Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:03:36.747Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ol><li><p><strong>O nobre precisa de quatro peças de armadura:</strong></p><ol><li><p><strong>Elmo;</strong></p></li><li><p><strong>Peitoral;</strong></p></li><li><p><strong>Manopla;</strong></p></li><li><p><strong>Calças;</strong></p></li></ol></li></ol>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:09:18.729Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ol><li><p>O nobre precisa de quatro peças de armadura:</p><ol><li><p>Elmo;</p></li><li><p>Peitoral;</p></li><li><p>Manopla;</p></li><li><p>Calças;</p></li></ol></li></ol>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:10:31.748Z"
+                }
+              ]
+            },
+            {
+              "id": "30",
+              "guid": "126a17ea-2d2c-46ba-a941-efa824f3de5d",
+              "text": "<p>O nobre precisa de quatro armas:</p><ol><li><p>Lança;</p></li><li><p>Espada;</p></li><li><p>Escudo;</p></li><li><p>Adaga;</p></li></ol>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:03:41.092Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:03:52.214Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ol><li><p><strong>O nobre precisa de quatro armas:</strong></p><ol><li><p><strong>Lança;</strong></p></li><li><p><strong>Espada;</strong></p></li><li><p><strong>Escudo;</strong></p></li><li><p><strong>Adaga;</strong></p></li></ol></li></ol>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:09:14.043Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ol><li><p>O nobre precisa de quatro armas:</p><ol><li><p>Lança;</p></li><li><p>Espada;</p></li><li><p>Escudo;</p></li><li><p>Adaga;</p></li></ol></li></ol>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:10:36.838Z"
+                }
+              ]
+            },
+            {
+              "id": "31",
+              "guid": "2277e2d3-c943-4604-b8f9-1a889291fac5",
+              "text": "<p>Cada peça de equipamento (arma ou armadura) pode ter dois tipos de variação e quatro opções para cada tipo:</p><ol><li><p>Metal para a armadura e para as armas:</p><ol><li><p>Aço;</p></li><li><p>Mítrio;</p></li><li><p>Adamantina;</p></li><li><p>Obsidiano;</p></li></ol></li><li><p>Madeira para o escudo e para a haste da lança:</p><ol><li><p>Lariço;</p></li><li><p>Amieiro;</p></li><li><p>Tília;</p></li><li><p>Álamo;</p></li></ol></li><li><p>Tecido para a armadura:</p><ol><li><p>Couro;</p></li><li><p>Gambeson;</p></li><li><p>Linho élfico;</p></li><li><p>Lã anã;&nbsp;</p></li></ol></li></ol><p>1.&nbsp;Tipo de guarda pra espada e pra adaga:</p><ol><li>​​​​ ​​Guarda em V;</li><li>Guarda com anéis;</li><li>Punho de cesta;</li><li>Guarda cruzada;</li></ol>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:03:54.987Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:04:13.484Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ol><li><p><strong>Cada peça de equipamento (arma ou armadura) pode ter dois tipos de variação e quatro opções para cada tipo:</strong></p><ol><li><p><strong>Metal para a armadura e para as armas:</strong></p><ol><li><p><strong>Aço;</strong></p></li><li><p><strong>Mítrio;</strong></p></li><li><p><strong>Adamantina;</strong></p></li><li><p><strong>Obsidiano;</strong></p></li></ol></li><li><p><strong>Madeira para o escudo e para a haste da lança:</strong></p><ol><li><p><strong>Lariço;</strong></p></li><li><p><strong>Amieiro;</strong></p></li><li><p><strong>Tília;</strong></p></li><li><p><strong>Álamo;</strong></p></li></ol></li><li><p><strong>Tecido para a armadura:</strong></p><ol><li><p><strong>Couro;</strong></p></li><li><p><strong>Gambeson;</strong></p></li><li><p><strong>Linho élfico;</strong></p></li><li><p><strong>Lã anã;</strong></p></li></ol></li></ol></li></ol>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:05:46.808Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ol><li><p><strong>Cada peça de equipamento (arma ou armadura) pode ter dois tipos de variação e quatro opções para cada tipo:</strong></p><ol><li><p><strong>Metal para a armadura e para as armas:</strong></p><ol><li><p><strong>Aço;</strong></p></li><li><p><strong>Mítrio;</strong></p></li><li><p><strong>Adamantina;</strong></p></li><li><p><strong>Obsidiano;</strong></p></li></ol></li><li><p><strong>Madeira para o escudo e para a haste da lança:</strong></p><ol><li><p><strong>Lariço;</strong></p></li><li><p><strong>Amieiro;</strong></p></li><li><p><strong>Tília;</strong></p></li><li><p><strong>Álamo;</strong></p></li></ol></li><li><p><strong>Tecido para a armadura:</strong></p><ol><li><p><strong>Couro;</strong></p></li><li><p><strong>Gambeson;</strong></p></li><li><p><strong>Linho élfico;</strong></p></li><li><p><strong>Lã anã;</strong>&nbsp;</p></li></ol></li></ol></li></ol><p>1.&nbsp;<strong>Tipo de guarda pra espada e pra adaga:</strong></p><p>​​​​1. ​​​<strong>Guarda em V;</strong></p><ol><li><p><strong>Guarda com anéis;</strong></p></li><li><p><strong>Punho de cesta;</strong></p></li><li><p><strong>Guarda cruzada;</strong></p></li></ol>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:09:07.403Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ol><li><p>Cada peça de equipamento (arma ou armadura) pode ter dois tipos de variação e quatro opções para cada tipo:</p><ol><li><p>Metal para a armadura e para as armas:</p><ol><li><p>Aço;</p></li><li><p>Mítrio;</p></li><li><p>Adamantina;</p></li><li><p>Obsidiano;</p></li></ol></li><li><p>Madeira para o escudo e para a haste da lança:</p><ol><li><p>Lariço;</p></li><li><p>Amieiro;</p></li><li><p>Tília;</p></li><li><p>Álamo;</p></li></ol></li><li><p>Tecido para a armadura:</p><ol><li><p>Couro;</p></li><li><p>Gambeson;</p></li><li><p>Linho élfico;</p></li><li><p>Lã anã;&nbsp;</p></li></ol></li></ol></li></ol><p>1.&nbsp;Tipo de guarda pra espada e pra adaga:</p><p>​​​​1. ​​​Guarda em V;</p><ol><li><p>Guarda com anéis;</p></li><li><p>Punho de cesta;</p></li><li><p>Guarda cruzada;</p></li></ol>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:11:27.012Z"
+                }
+              ]
+            },
+            {
+              "id": "33",
+              "guid": "1d61480b-56fe-4817-9cc0-07599aaeb28b",
+              "text": "<p>O jogo deve possuir um menu que mostra as atividades em andamento, as barras de paciência de cada NPC com quem o personagem já conversou e as tarefas por fazer.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:05:52.552Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:06:07.258Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O jogo deve possuir um menu que mostra as atividades em andamento, as barras de paciência de cada NPC com quem o personagem já conversou e as tarefas por fazer.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:09:00.744Z"
+                }
+              ]
+            },
+            {
+              "id": "32",
+              "guid": "75f1f0aa-f396-4b56-b641-26aa1e24a8a8",
+              "text": "<p>As armas e armaduras devem ser testadas após concluídas, e caso apresentem problemas devem ser enviadas de volta para o ferreiro, encarecendo o custo final.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:04:23.618Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:06:20.884Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>As armas e armaduras devem ser testadas após concluídas, e caso apresentem problemas devem ser enviadas de volta para o ferreiro, encarecendo o custo final.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:08:53.304Z"
+                }
+              ]
+            },
+            {
+              "id": "34",
+              "guid": "aa1e971e-01ba-45ec-a266-24fda98240a9",
+              "text": "<p>O jogador terá uma barra de estresse que sobe conforme as tarefas são concluídas.</p><p>&nbsp;</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:06:23.585Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:06:37.522Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O jogador terá uma barra de estresse que sobe conforme as tarefas são concluídas.</strong></p><p>&nbsp;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:08:46.047Z"
+                }
+              ]
+            },
+            {
+              "id": "35",
+              "guid": "d01a8292-fa9a-4d9b-a536-28174bd7e123",
+              "text": "<p>A barra de estresse do jogador reduz com a cerveja que ele pode consumir na taverna com o dinheiro do projeto.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:06:39.548Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:06:50.479Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>A barra de estresse do jogador reduz com a cerveja que ele pode consumir na taverna com o dinheiro do projeto.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:08:41.274Z"
+                }
+              ]
+            },
+            {
+              "id": "36",
+              "guid": "11ba2588-7f91-4bd2-b109-70032ed29f08",
+              "text": "<p>A barra de estresse afeta o desempenho do jogador: quanto mais estressado o jogador estiver, mais estresse ele gera nos NPCs e no nobre durante os diálogos.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:06:52.271Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:07:04.489Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>A barra de estresse afeta o desempenho do jogador: quanto mais estressado o jogador estiver, mais estresse ele gera nos NPCs e no nobre durante os diálogos.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:08:19.738Z"
+                }
+              ]
+            },
+            {
+              "id": "37",
+              "guid": "f064ddae-6630-4b66-9138-6ee22e956122",
+              "text": "<p>O jogo vai se passar numa vila medieval e o jogador deve interagir com os ferreiros e outros trabalhadores para concluir o projeto.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:07:06.338Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:07:18.660Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O jogo vai se passar numa vila medieval e o jogador deve interagir com os ferreiros e outros trabalhadores para concluir o projeto.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:08:27.698Z"
+                }
+              ]
+            },
+            {
+              "id": "38",
+              "guid": "14ba75b8-0282-4360-b127-a34884019396",
+              "text": "<p>O jogador vai se mover com as teclas direcionais (setas), interagir/confirmar escolha com a tecla Z, abrir o menu/cancelar/voltar com a tecla X.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:07:20.496Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:07:31.044Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O jogador vai se mover com as teclas direcionais (setas), interagir/confirmar escolha com a tecla Z, abrir o menu/cancelar/voltar com a tecla X.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:08:35.459Z"
+                }
+              ]
+            },
+            {
+              "id": "39",
+              "guid": "2af644fa-2f97-4816-b1e4-6e76e29213ef",
+              "text": "<p>O nobre e os NPCs não estão disponíveis todos os dias, cada um tem uma agenda gerada aleatoriamente no início do jogo.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:07:42.660Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:07:48.631Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>O nobre e os NPCs não estão disponíveis todos os dias, cada um tem uma agenda gerada aleatoriamente no início do jogo.</strong></p>"
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:08:14.573Z"
+                }
+              ]
+            },
+            {
+              "id": "40",
+              "guid": "08b360f0-85a9-4c5f-8404-4aaac587ae6d",
+              "text": "<p>Todo NPC aciona diálogos quando abordado.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:07:57.978Z",
+                  "docId": "JEASADOC",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Universidade Federal de Juiz de Fora",
+                    "email": "mateus.marim@ice.ufjf.br",
+                    "name": "Mateus Coutinho Marim"
+                  },
+                  "changedOn": "2018-04-23T02:08:06.449Z"
                 }
               ]
             }
