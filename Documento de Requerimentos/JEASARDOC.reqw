@@ -12,11 +12,11 @@
         "email": "mateus.marim@ice.ufjf.br",
         "company": "Universidade Federal de Juiz de Fora"
       },
-      "lastChangedOn": "2018-04-23T02:11:27.020Z",
+      "lastChangedOn": "2018-04-23T02:38:46.104Z",
       "lastChangedBy": {
-        "name": "Mateus Coutinho Marim",
-        "email": "mateus.marim@ice.ufjf.br",
-        "company": "Universidade Federal de Juiz de Fora"
+        "name": "Lucas Diniz da Costa",
+        "email": "lucas_diniz_jf@hotmail.com",
+        "company": ""
       },
       "data": [
         {
@@ -73,6 +73,7 @@
             {
               "id": "2",
               "guid": "62638e16-683b-4800-8b93-a321579f2639",
+              "heading": "Requisito Funcional",
               "text": "<p>Apresentará itens correspondentes ao conjunto de armas e armadura do nobre e os mesmos possuem atributos que especificam a qualidade do material utilizado.</p>",
               "history": [
                 {
@@ -140,12 +141,35 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:10:22.716Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:20:21.084Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Requisito funcional"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:20:33.783Z"
                 }
               ]
             },
             {
               "id": "3",
               "guid": "0fe27224-3276-4c0a-a94c-92a1d5004a30",
+              "heading": "Requisito Funcional",
               "text": "<p>O resultado final mostra o quão eficiente será o conjunto de arma e armadura desenvolvido para o nobre e será avaliado da maneira como ele voltar da guerra.</p>",
               "history": [
                 {
@@ -334,12 +358,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:10:16.802Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:22:11.463Z"
                 }
               ]
             },
             {
               "id": "4",
               "guid": "289cdd9b-f23d-4a77-b284-17d003bea356",
+              "heading": "Requisito Funcional",
               "text": "<ol><li><p>O nobre poderá voltar da seguinte maneira:</p><ol><li><p>Morto;</p></li><li><p>Vivo:</p><ol><li><p>Armadura destruída e arma intacta;</p></li><li><p>Armas destruídas e armadura intacta;</p></li><li><p>Armas e armadura destruídas;</p></li><li><p>Armas e armadura intactas;</p></li></ol></li></ol></li></ol>",
               "history": [
                 {
@@ -396,12 +432,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:10:11.801Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:22:34.423Z"
                 }
               ]
             },
             {
               "id": "19",
               "guid": "f746674c-a19e-4a2a-a3ce-e34e51f35ecc",
+              "heading": "Requisito Funcional",
               "text": "<p>Os NPCs (Non Playable Characters) apresentarão Nomes.</p>",
               "history": [
                 {
@@ -436,12 +484,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:10:08.193Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:23:12.591Z"
                 }
               ]
             },
             {
               "id": "20",
               "guid": "f8fa09e4-404c-4b84-bc7f-c2c40750053f",
+              "heading": "Requisito Funcional",
               "text": "<p>O nobre deve ter uma barra de estresse que aumenta a cada vez que o jogador faz uma pergunta para limitar o número de perguntas que ele pode fazer. Caso a barra de estresse chegue no máximo, o nobre manda executar o jogador.</p>",
               "history": [
                 {
@@ -476,12 +536,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:10:04.317Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:35:33.577Z"
                 }
               ]
             },
             {
               "id": "21",
               "guid": "4e90b98a-144a-4767-b92b-ccdc89d86faf",
+              "heading": "Requisito Funcional",
               "text": "<p>Os NPCs devem ter barras de estresse que, quando chegam no máximo, bloqueiam o diálogo com o NPC em questão pelo resto do jogo.</p>",
               "history": [
                 {
@@ -516,12 +588,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:09:56.824Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:23:31.566Z"
                 }
               ]
             },
             {
               "id": "22",
               "guid": "181a8de3-1f01-4af3-8d09-904619785546",
+              "heading": "Requisito Funcional",
               "text": "<p>O jogo deve ter trilha sonora.</p>",
               "history": [
                 {
@@ -556,12 +640,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:09:53.473Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:23:36.127Z"
                 }
               ]
             },
             {
               "id": "23",
               "guid": "2fc31cc9-dc6a-4b3f-9aaa-b6090058e3c8",
+              "heading": "Requisito Funcional",
               "text": "<p>O jogo deve apresentar menu inicial com opção de configurar volume e resolução.</p>",
               "history": [
                 {
@@ -596,12 +692,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:09:50.182Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:23:47.560Z"
                 }
               ]
             },
             {
               "id": "24",
               "guid": "540a2608-c7aa-4d45-98dc-294ac0bd97a2",
+              "heading": "Requisito Funcional",
               "text": "<p>O jogo deve funcionar com um sistema de passagem de tempo por tarefas executadas (cada tarefa consome um tempo diferente).</p>",
               "history": [
                 {
@@ -636,12 +744,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:09:45.946Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:24:03.021Z"
                 }
               ]
             },
             {
               "id": "25",
               "guid": "ec4ea1da-07ea-421f-a29a-07c799f4a7d4",
+              "heading": "Requisito Funcional",
               "text": "<p>Deve haver um tempo limite para entregar o conjunto de armas e armadura demarcando o início da guerra.</p>",
               "history": [
                 {
@@ -676,12 +796,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:09:42.202Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:24:15.696Z"
                 }
               ]
             },
             {
               "id": "26",
               "guid": "eef42ada-46b9-43f8-a76e-b5cfc8fc5274",
+              "heading": "Requisito Funcional",
               "text": "<p>Deve haver uma opção de passar o tempo rapidamente sem realizar tarefas (ao interagir com a cama o jogador pode escolher dormir até o dia seguinte).</p>",
               "history": [
                 {
@@ -716,12 +848,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:09:38.543Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:24:26.214Z"
                 }
               ]
             },
             {
               "id": "27",
               "guid": "312605c0-4048-4c24-a0d9-1dd072b83772",
+              "heading": "Requisito Funcional",
               "text": "<p>Cada serviço que o jogador solicitar levará um determinado tempo para ser finalizado. O serviço não ocupará o tempo do jogador, mas ele precisa esperar esse tempo (realizando tarefas ou dormindo) para buscar os resultados desse serviço.</p>",
               "history": [
                 {
@@ -756,12 +900,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:09:30.563Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:24:50.968Z"
                 }
               ]
             },
             {
               "id": "28",
               "guid": "2e42b882-a4f8-42bd-bb43-3a98bd40cb7b",
+              "heading": "Requisito Funcional",
               "text": "<p>Os serviços podem apresentar falhas ou atrasos e, para verificar o andamento, o jogador deve falar com o NPC que estiver trabalhando com isso, mas ao falar com o NPC a barra de paciência dele vai diminuir.</p>",
               "history": [
                 {
@@ -796,12 +952,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:09:24.729Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:25:06.951Z"
                 }
               ]
             },
             {
               "id": "29",
               "guid": "09903d41-f4f2-48ae-9bdd-d5d50b70ff41",
+              "heading": "Requisito Funcional",
               "text": "<p>O nobre precisa de quatro peças de armadura:</p><ol><li><p>Elmo;</p></li><li><p>Peitoral;</p></li><li><p>Manopla;</p></li><li><p>Calças;</p></li></ol>",
               "history": [
                 {
@@ -847,12 +1015,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:10:31.748Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:26:14.168Z"
                 }
               ]
             },
             {
               "id": "30",
               "guid": "126a17ea-2d2c-46ba-a941-efa824f3de5d",
+              "heading": "Requisito Funcional",
               "text": "<p>O nobre precisa de quatro armas:</p><ol><li><p>Lança;</p></li><li><p>Espada;</p></li><li><p>Escudo;</p></li><li><p>Adaga;</p></li></ol>",
               "history": [
                 {
@@ -898,13 +1078,25 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:10:36.838Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:26:39.034Z"
                 }
               ]
             },
             {
               "id": "31",
               "guid": "2277e2d3-c943-4604-b8f9-1a889291fac5",
-              "text": "<p>Cada peça de equipamento (arma ou armadura) pode ter dois tipos de variação e quatro opções para cada tipo:</p><ol><li><p>Metal para a armadura e para as armas:</p><ol><li><p>Aço;</p></li><li><p>Mítrio;</p></li><li><p>Adamantina;</p></li><li><p>Obsidiano;</p></li></ol></li><li><p>Madeira para o escudo e para a haste da lança:</p><ol><li><p>Lariço;</p></li><li><p>Amieiro;</p></li><li><p>Tília;</p></li><li><p>Álamo;</p></li></ol></li><li><p>Tecido para a armadura:</p><ol><li><p>Couro;</p></li><li><p>Gambeson;</p></li><li><p>Linho élfico;</p></li><li><p>Lã anã;&nbsp;</p></li></ol></li></ol><p>1.&nbsp;Tipo de guarda pra espada e pra adaga:</p><ol><li>​​​​ ​​Guarda em V;</li><li>Guarda com anéis;</li><li>Punho de cesta;</li><li>Guarda cruzada;</li></ol>",
+              "heading": "Requisito Funcional",
+              "text": "<p>Cada peça de equipamento (arma ou armadura) pode ter dois tipos de variação e quatro opções para cada tipo:</p><ol><li><p>Metal para a armadura e para as armas:</p><ol><li><p>Aço;</p></li><li><p>Mítrio;</p></li><li><p>Adamantina;</p></li><li><p>Obsidiano;</p></li></ol></li><li><p>Madeira para o escudo e para a haste da lança:</p><ol><li><p>Lariço;</p></li><li><p>Amieiro;</p></li><li><p>Tília;</p></li><li><p>Álamo;</p></li></ol></li><li><p>Tecido para a armadura:</p><ol><li><p>Couro;</p></li><li><p>Gambeson;</p></li><li><p>Linho élfico;</p></li><li><p>Lã anã;</p></li></ol></li></ol><p>1. Tipo de guarda pra espada e pra adaga:</p><ol><li>​​​​ ​​Guarda em V;</li><li>Guarda com anéis;</li><li>Punho de cesta;</li><li>Guarda cruzada;</li></ol>",
               "history": [
                 {
                   "affectedNodeId": "1",
@@ -960,12 +1152,35 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:11:27.012Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Cada peça de equipamento (arma ou armadura) pode ter dois tipos de variação e quatro opções para cada tipo:</p><ol><li><p>Metal para a armadura e para as armas:</p><ol><li><p>Aço;</p></li><li><p>Mítrio;</p></li><li><p>Adamantina;</p></li><li><p>Obsidiano;</p></li></ol></li><li><p>Madeira para o escudo e para a haste da lança:</p><ol><li><p>Lariço;</p></li><li><p>Amieiro;</p></li><li><p>Tília;</p></li><li><p>Álamo;</p></li></ol></li><li><p>Tecido para a armadura:</p><ol><li><p>Couro;</p></li><li><p>Gambeson;</p></li><li><p>Linho élfico;</p></li><li><p>Lã anã; </p></li></ol></li></ol><p>1. Tipo de guarda pra espada e pra adaga:</p><ol><li>​​​​ ​​Guarda em V;</li><li>Guarda com anéis;</li><li>Punho de cesta;</li><li>Guarda cruzada;</li></ol>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:28:14.045Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:29:35.721Z"
                 }
               ]
             },
             {
               "id": "33",
               "guid": "1d61480b-56fe-4817-9cc0-07599aaeb28b",
+              "heading": "Requisito Funcional",
               "text": "<p>O jogo deve possuir um menu que mostra as atividades em andamento, as barras de paciência de cada NPC com quem o personagem já conversou e as tarefas por fazer.</p>",
               "history": [
                 {
@@ -1000,12 +1215,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:09:00.744Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:29:51.250Z"
                 }
               ]
             },
             {
               "id": "32",
               "guid": "75f1f0aa-f396-4b56-b641-26aa1e24a8a8",
+              "heading": "Requisito Funcional",
               "text": "<p>As armas e armaduras devem ser testadas após concluídas, e caso apresentem problemas devem ser enviadas de volta para o ferreiro, encarecendo o custo final.</p>",
               "history": [
                 {
@@ -1040,12 +1267,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:08:53.304Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:30:04.628Z"
                 }
               ]
             },
             {
               "id": "34",
               "guid": "aa1e971e-01ba-45ec-a266-24fda98240a9",
+              "heading": "Requisito Funcional",
               "text": "<p>O jogador terá uma barra de estresse que sobe conforme as tarefas são concluídas.</p><p>&nbsp;</p>",
               "history": [
                 {
@@ -1080,12 +1319,25 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:08:46.047Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": "<p>O jogador terá uma barra de estresse que sobe conforme as tarefas são concluídas.</p><p><br></p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:30:14.694Z"
                 }
               ]
             },
             {
               "id": "35",
               "guid": "d01a8292-fa9a-4d9b-a536-28174bd7e123",
+              "heading": "Requisito Funcional",
               "text": "<p>A barra de estresse do jogador reduz com a cerveja que ele pode consumir na taverna com o dinheiro do projeto.</p>",
               "history": [
                 {
@@ -1120,12 +1372,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:08:41.274Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:30:25.548Z"
                 }
               ]
             },
             {
               "id": "36",
               "guid": "11ba2588-7f91-4bd2-b109-70032ed29f08",
+              "heading": "Requisito Funcional",
               "text": "<p>A barra de estresse afeta o desempenho do jogador: quanto mais estressado o jogador estiver, mais estresse ele gera nos NPCs e no nobre durante os diálogos.</p>",
               "history": [
                 {
@@ -1160,12 +1424,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:08:19.738Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:30:37.267Z"
                 }
               ]
             },
             {
               "id": "37",
               "guid": "f064ddae-6630-4b66-9138-6ee22e956122",
+              "heading": "Requisito Funcional",
               "text": "<p>O jogo vai se passar numa vila medieval e o jogador deve interagir com os ferreiros e outros trabalhadores para concluir o projeto.</p>",
               "history": [
                 {
@@ -1200,12 +1476,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:08:27.698Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:30:45.420Z"
                 }
               ]
             },
             {
               "id": "38",
               "guid": "14ba75b8-0282-4360-b127-a34884019396",
+              "heading": "Requisito Funcional",
               "text": "<p>O jogador vai se mover com as teclas direcionais (setas), interagir/confirmar escolha com a tecla Z, abrir o menu/cancelar/voltar com a tecla X.</p>",
               "history": [
                 {
@@ -1240,12 +1528,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:08:35.459Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:31:05.252Z"
                 }
               ]
             },
             {
               "id": "39",
               "guid": "2af644fa-2f97-4816-b1e4-6e76e29213ef",
+              "heading": "Requisito Funcional",
               "text": "<p>O nobre e os NPCs não estão disponíveis todos os dias, cada um tem uma agenda gerada aleatoriamente no início do jogo.</p>",
               "history": [
                 {
@@ -1280,12 +1580,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:08:14.573Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:31:14.787Z"
                 }
               ]
             },
             {
               "id": "40",
               "guid": "08b360f0-85a9-4c5f-8404-4aaac587ae6d",
+              "heading": "Requisito Funcional",
               "text": "<p>Todo NPC aciona diálogos quando abordado.</p>",
               "history": [
                 {
@@ -1309,6 +1621,17 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-23T02:08:06.449Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:31:21.802Z"
                 }
               ]
             }
@@ -1346,7 +1669,8 @@
             {
               "id": "8",
               "guid": "13555b27-0f2a-4821-ae5e-771fd8b91111",
-              "text": "<p>O SO utilizado deve ser Windows XP ou superior.</p>",
+              "heading": "Requisitos Não Funcionais",
+              "text": "<p>O sistema operacional&nbsp;utilizado deve ser Windows XP ou superior.</p>",
               "history": [
                 {
                   "affectedNodeId": "7",
@@ -1391,12 +1715,25 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-19T23:02:32.766Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": "<p>O SO utilizado deve ser Windows XP ou superior.</p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:36:44.911Z"
                 }
               ]
             },
             {
               "id": "9",
               "guid": "3f91dbd1-60d8-4b60-833b-a626eff306ce",
+              "heading": "Requisitos Não Funcionais",
               "text": "<p>O jogo deve possibilitar ao usuário o aprendizado e a assimilação dos conteúdos de Engenharia de Software.</p>",
               "history": [
                 {
@@ -1431,12 +1768,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-19T23:02:27.966Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:36:54.774Z"
                 }
               ]
             },
             {
               "id": "10",
               "guid": "240ede71-4c68-4dee-b439-bd84d2ba891b",
+              "heading": "Requisitos Não Funcionais",
               "text": "<p>O jogo deve possuir uma interface intuitiva.</p>",
               "history": [
                 {
@@ -1471,12 +1820,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-19T23:02:44.330Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:36:59.687Z"
                 }
               ]
             },
             {
               "id": "11",
               "guid": "3ce4016d-0228-444f-8a37-88798f85682b",
+              "heading": "Requisitos Não Funcionais",
               "text": "<p>O jogo deve ter um manual de instruções.</p>",
               "history": [
                 {
@@ -1511,12 +1872,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-19T23:04:22.920Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:37:52.094Z"
                 }
               ]
             },
             {
               "id": "12",
               "guid": "8342d66c-0157-40b5-aaae-ad91c41cfe58",
+              "heading": "Requisitos Não Funcionais",
               "text": "<p>O jogo deve ser instalado a partir do executável padrão do RPG Maker VX Ace.</p>",
               "history": [
                 {
@@ -1551,12 +1924,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-19T23:04:30.274Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:37:55.559Z"
                 }
               ]
             },
             {
               "id": "13",
               "guid": "793c1764-602b-476e-bb15-aa2d7ef20d03",
+              "heading": "Requisitos Não Funcionais",
               "text": "<p>O objetivo do jogo só será alcançado caso o usuário tenha um conhecimento básico de Engenharia de Software, então ele só deve ser jogado por quem se encaixa nesse perfil.</p>",
               "history": [
                 {
@@ -1591,12 +1976,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-19T23:03:43.501Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:38:02.366Z"
                 }
               ]
             },
             {
               "id": "14",
               "guid": "0be08711-d5df-49a2-a2ca-123b4c564126",
+              "heading": "Requisitos Não Funcionais",
               "text": "<p>O jogo deve apresentar as instruções após uma introdução lúdica de no máximo um minuto.</p>",
               "history": [
                 {
@@ -1631,12 +2028,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-19T23:03:18.809Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:38:08.705Z"
                 }
               ]
             },
             {
               "id": "15",
               "guid": "67f88a0d-48f3-4567-8e97-f107898917eb",
+              "heading": "Requisitos Não Funcionais",
               "text": "<p>O jogo deve iniciar após no máximo 15 segundos.</p>",
               "history": [
                 {
@@ -1671,12 +2080,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-19T23:02:54.246Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:38:12.969Z"
                 }
               ]
             },
             {
               "id": "16",
               "guid": "9b96fd13-e07f-4c6b-9907-116c945df932",
+              "heading": "Requisitos Não Funcionais",
               "text": "<p>O jogo deve ser finalizável em menos de uma hora.</p>",
               "history": [
                 {
@@ -1711,12 +2132,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-19T23:03:52.198Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:38:17.064Z"
                 }
               ]
             },
             {
               "id": "17",
               "guid": "2d5560ae-8f9a-4e4e-a92e-686d29e39473",
+              "heading": "Requisitos Não Funcionais",
               "text": "<p>O projeto deve ser finalizado em menos de dois meses.</p>",
               "history": [
                 {
@@ -1751,12 +2184,24 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-19T23:04:03.874Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:38:30.386Z"
                 }
               ]
             },
             {
               "id": "18",
               "guid": "9396f7a0-aba1-46ba-a883-cc465f07465f",
+              "heading": "Requisitos Não Funcionais",
               "text": "<p>O projeto deve ser desenvolvido totalmente no RPG Maker VX Ace.</p>",
               "history": [
                 {
@@ -1791,6 +2236,17 @@
                     "name": "Mateus Coutinho Marim"
                   },
                   "changedOn": "2018-04-19T23:04:12.690Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "lucas_diniz_jf@hotmail.com",
+                    "name": "Lucas Diniz da Costa"
+                  },
+                  "changedOn": "2018-04-23T02:38:46.095Z"
                 }
               ]
             }
