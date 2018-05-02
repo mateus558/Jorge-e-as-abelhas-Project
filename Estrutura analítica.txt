@@ -1,0 +1,42 @@
+Paradigma utilizado: 
+-> Ciclo de vida clássico(cascata): Ciclo de vida em que cada etapa é focada uma única vez:
+-> comunicação - Um brainstorm foi feito onde definiu-se em linhas gerais o que seria o jogo;
+	-> Recurso humano: Equipe do projeto;
+	-> Recurso de hardware: Nenhum;
+	-> Recurso de software: Nenhum;
+	-> Documentos: Nenhum;
+-> planejamento - Baseado nas linhas gerais definimos mais detalhes sobre o jogo, plataforma de desenvolvimento e as funcionalidades do jogo além de acrescentar os paradigmas de desenvolvimento e métrica de software;
+	-> Recurso humano: Equipe do projeto;
+	-> Recurso de hardware: Notebook de todos;
+	-> Recurso de software: Google docs, bloco de notas, github e project libre;
+	-> Documentos: High Concept Design;
+-> Modelagem - Fizemos os requisitos funcionais e não funcionais e o diagrama de classes;
+	-> Recurso humano: Equipe do projeto;
+	-> Recurso de hardware: Notebook do Marim;
+	-> Recurso de software: ReqView para modelar os requisitos e StarUML para modelar as classes;
+	-> Documentos: Levantamento de requisitos e digrama de classes;
+-> Construção - Iremos dividir o grupo e começar a desenvolver na IDE do RPG Maker VX Ace;
+	-> Recurso humano: Equipe do projeto;
+	-> Recurso de hardware: Notebook de todos;
+	-> Recurso de software: RPG Maker VX Ace;
+	-> Documentos: Documentação do projeto;
+-> Implantação - Depois de desenvolver os scripts, juntamos todos no rpg maker e testamos o projeto final;
+	-> Recurso humano: Quase toda a equipe do projeto;
+	-> Recurso de hardware: Notebook de todos;
+	-> Recurso de software: RPG Maker VX Ace;
+	-> Documentos: Artigo do projeto;
+
+Motivação do paradigma utilizado:
+-> Pelo tempo curto não temos como retomarmos tarefas, então prezando pelo final do projeto utilizaremos o ciclo de vida em cascata em que cada etapa é focada em uma única vez.
+
+Métrica de software utilizada:
+-> Número de scripts desenvolvidos;
+-> Número de funcionalidades abandonadas;
+-> Número de funcionalidades acrescentadas após o planejamento;
+-> Tempo de gameplay para testar todas as funcionalidades atualmente disponíveis no jogo;
+
+Motivação da métrica: 
+1) Verifica a complexidade do projeto;
+2) Verifica a viabilidade inicial do projeto;
+3) Verifica o quão bem foi modelado o projeto;
+4) Verifica o avanço real do projeto;
