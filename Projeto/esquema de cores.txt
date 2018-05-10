@@ -1,0 +1,49 @@
+QUALIDADE
+
+	excelente:      29
+
+	boa:            23
+
+	razoável:       25
+
+	ruim:           10
+
+METAL
+
+	aço:             4
+
+	mítrio:          5
+
+	obsidiana:       7
+
+	adamantina:     26
+
+MADEIRA
+
+	Lariço:         21
+
+	Amieiro:        17
+
+	Tília:          20
+
+	Álamo:           6
+
+TECIDO
+
+	Couro:          20
+
+	Gambeson:       16
+
+	Linho élfico:   23
+
+	Lã anã:         22
+
+GUARDA
+
+	Cruzada:         1
+
+	Punho de cesta: 31
+
+	Com anéis:      13
+
+	Em V:           26
